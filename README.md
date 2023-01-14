@@ -25,7 +25,7 @@ C:\> python --version
 Python 3.8.4
 Plugins
 
-## LINK
+## Link
 * [Google Collab](https://colab.research.google.com/drive/14lPfKYwOaKypZ215-iwcRxFfF_0SAXtY?usp=sharing)
 
 * [Jurnal](https://drive.google.com/file/d/1R3ZaucB8P4nFTr7H4LohECfMN8_mSFQb/view?usp=share_link)
