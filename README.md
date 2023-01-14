@@ -1,6 +1,8 @@
 # Herbal-leaf-Classification-CNN
-Mata Kuliah Kecerdasan Buatan Pengampu IR. GALIH WASIS WICAKSONO, S.KOM, M.CS.
-Nama: Mohammad Zaki NIM: 202010370311040
+* Mata Kuliah: Kecerdasan Buatan 
+* Dosen Pengampu: IR. GALIH WASIS WICAKSONO, S.KOM, M.CS.
+* Nama: Mohammad Zaki 
+* NIM: 202010370311040
 ---
 
 
